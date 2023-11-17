@@ -1,2 +1,22 @@
-
 /* Your CSS Code here. */
+#holder{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	
+}
+.block{
+	width: 100px;
+	height: 100px;
+}
+.green{
+	background-color: green;
+}
+
+.red{
+	background-color: red;
+}
+
+.blue{
+	background-color: blue;
+}
